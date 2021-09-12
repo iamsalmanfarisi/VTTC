@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsalmanfarisi&label=Profile%20views&color=0e75b6&style=flat-square" alt="iamsalmanfarisi" /> </p>
 
-- 🔭 I’m currently in an internship for Full Stack Web Development. This was the initial project they suggested and this was what I camed with.
+- 🔭 I’m currently doing an internship on Full Stack Web Development. This was the initial project they suggested and this was what I camed with.
 
 - 🌱 I’m currently learning **Bootstrap, Node.js, React along with MongoDB.**
 
